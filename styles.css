@@ -1,13 +1,5 @@
 @charset 'UTF-8';
 
-html {
-  font-size : 18px ;
-}
-
 h1 {
-  font-size : 1rem ;
-}
-
-h2{
-  font-size : 0.75rem ;
+  font-size : 18px ;
 }
